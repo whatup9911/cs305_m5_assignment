@@ -1,6 +1,6 @@
 # cs305_m5_assignment
 
-For this project we are implementing the movement and obstacle avoidance for the thirty gallon robot
+For this project we are implementing the movement and obstacle avoidance for the thirty gallon robot. The thirty gallon robot is an affordable autonomous robotic platform
   
 
   
